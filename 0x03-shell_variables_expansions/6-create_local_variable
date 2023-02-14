@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY=Best School
+echo "The value of BEST is: $BEST"
